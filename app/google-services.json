@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "262992703893",
+    "project_id": "ncgapp-1437c",
+    "storage_bucket": "ncgapp-1437c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262992703893:android:7a3c43154b90beafdec69c",
+        "android_client_info": {
+          "package_name": "com.nofliegroup.ncg_official_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262992703893-iotqk1nv5jr81m5ucnne2rmi02hdpgvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzjTeHp6kuVGwx1i5nz49PefzCuIf4pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262992703893-iotqk1nv5jr81m5ucnne2rmi02hdpgvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262992703893:android:bf88dfbbd5ced4fadec69c",
+        "android_client_info": {
+          "package_name": "com.nofliegroup.ncgofficialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262992703893-p6mbg9i9cju3bdr67vl0r1fpl5oh0e32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nofliegroup.ncgofficialapp",
+            "certificate_hash": "c52ab9c3c00cc96d29ebe4a4472a2d051ffe3b17"
+          }
+        },
+        {
+          "client_id": "262992703893-iotqk1nv5jr81m5ucnne2rmi02hdpgvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnzjTeHp6kuVGwx1i5nz49PefzCuIf4pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262992703893-iotqk1nv5jr81m5ucnne2rmi02hdpgvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
